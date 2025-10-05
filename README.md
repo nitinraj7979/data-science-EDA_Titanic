@@ -3,7 +3,7 @@
 **Goal:** Explore Titanic passenger data to identify factors that influenced survival and prepare features for a simple predictive model.
 
 ## Dataset
-- Source: Kaggle — *Titanic: Machine Learning from Disaster* (train.csv & test.csv)
+- Source: Kaggle — *Titanic: Machine Learning from Disaster* 
 - Files included: `titanic.csv`
 
 ## What I did
