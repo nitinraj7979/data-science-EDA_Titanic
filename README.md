@@ -4,7 +4,7 @@
 
 ## Dataset
 - Source: Kaggle — *Titanic: Machine Learning from Disaster* (train.csv & test.csv)
-- Files included: `train.csv`, `test.csv`
+- Files included: `titanic.csv`
 
 ## What I did
 1. Data overview and missing value analysis  
