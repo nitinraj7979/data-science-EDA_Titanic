@@ -21,7 +21,6 @@ Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Jupyter Notebook
 - Gender (female) had significantly higher survival rates.  
 - Higher passenger class and lower fare correlated with lower survival.  
 - Family size had an effect: very small or very large families had different survival rates.  
-*(Add your exact observations and any accuracy metric from the model here)*
 
 ## Files
 - `titanic_eda.ipynb` — Jupyter notebook with all code, plots and narrative  
