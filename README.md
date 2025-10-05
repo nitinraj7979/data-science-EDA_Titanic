@@ -25,7 +25,7 @@ Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Jupyter Notebook
 
 ## Files
 - `titanic_eda.ipynb` — Jupyter notebook with all code, plots and narrative  
-- `train.csv`, `test.csv` — datasets
+- `titanic.csv` — datasets
 
 ## How to reproduce
 1. Clone repo  
